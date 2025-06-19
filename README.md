@@ -1,0 +1,26 @@
+- [x] Drug Store Management
+- [x] Human Anatomy & Physiology
+- [x] Computers in Nursing
+- [x] Midwifery & Gynaecological Nursing
+- [x] Pharmaceutical Jurisprudence
+- [x] Pharmaceutics
+- [x] Pharmacognosy
+- [x] Community Health Nursing
+- [x] Nursing Management
+- [x] Health Education & Community Pharmacy
+- [x] Nutrition
+- [x] Psychiatric Nursing
+- [x] Pharmacology
+- [x] Toxicology
+- [x] Hospital & Clinical Pharmacy
+- [x] Biochemistry
+- [x] Medical-Surgical Nursing
+- [x] Fundamentals of Nursing
+- [x] Sociology
+- [x] Accountancy
+- [x] Microbiology
+- [x] Clinical Pathology
+- [x] Mental Health
+- [x] Psychology
+- [x] First Aid
+- [x] Pharmaceutical Chemistry
